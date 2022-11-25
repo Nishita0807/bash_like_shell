@@ -9,3 +9,6 @@ The commands includes:
 **<path_to_binary> <args>**- When path to a binary is provided, that binary should be spawned as a child process. The binary must receive all the arguments passed as space separated like arg1 arg2 ….
 **fg <pid> **- Brings the background process with process id <pid> to foreground.
 **exit** - Closes the shell.
+
+All the command are included in shell.js
+We could use a set of command or either a single command from the js file.
